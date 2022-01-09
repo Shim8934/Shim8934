@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-![Shim8934's github stats](https://github-readme-stats.vercel.app/api?username=Shim8934&show_icons=true)
-[![Shim8934's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shim8934&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Shim8934)
-
 <!---
 Shim8934/Shim8934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
